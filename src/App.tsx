@@ -25,7 +25,7 @@ const testTypes = [
 const pricingOptions = [
   {
     name: "16종 검사",
-    price: "100,000원",
+    price: "120,000원",
     badge: "",
     description: "폭넓은 유전 경향을 확인하고 싶은 보호자에게 적합합니다.",
     features: ["주요 건강 경향", "행동·생활관리 참고", "결과 리포트"],
@@ -479,7 +479,7 @@ function App() {
                   16종 검사
                   <small>폭넓은 항목 확인</small>
                 </span>
-                <b>100,000원</b>
+                <b>120,000원</b>
               </span>
             </label>
             <label>
